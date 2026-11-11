@@ -55,7 +55,7 @@ Principios aplicados:
 
 ---
 
-## 🛠️ Tecnologías
+##  Tecnologías
 
 - C# / .NET (ASP.NET Core MVC)
 - Entity Framework Core
